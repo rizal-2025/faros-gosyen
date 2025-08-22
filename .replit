@@ -1,0 +1,1 @@
+run = "bash -lc 'npm install && npm run dev -- -p $PORT'"
